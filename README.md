@@ -1,2 +1,3 @@
 # **LangChain** 🦜🔗 
-LangChain: A framework to build applications using LLMs
+
+**A framework to build applications using LLMs**
