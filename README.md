@@ -1,7 +1,7 @@
 # **LangChain** 🦜🔗 
 
-- A framework that helps developers build applications that combine LLMs with other data sources and tools.
-- It provides a modular and flexible way to integrate LLMs into real-world applications, making it easier to leverage the power of LLMs.
+- A Python framework that helps developers build applications that combine LLMs with other data sources and tools.
+- It provides a modular and flexible way to integrate LLMs into real-world applications and leverage the power of LLMs.
 
 ### **Key components of LangChain:**
 1. **Chains:** 
