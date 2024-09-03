@@ -3,11 +3,11 @@
 - A framework that helps developers build applications that combine LLMs with other data sources and tools.
 - It provides a modular and flexible way to integrate LLMs into real-world applications, making it easier to leverage the power of LLMs.
 
-**Key components of LangChain:**
+### **Key components of LangChain:**
 1. **Chains:** 
-  - These are the building blocks of LangChain applications.
-  - They define the sequence of steps that an LLM will follow to complete a task.
-  - Chains can be simple or complex, depending on the nature of the task.
+    - These are the building blocks of LangChain applications.
+    - They define the sequence of steps that an LLM will follow to complete a task.
+    - Chains can be simple or complex, depending on the nature of the task.
 
 2. **Modules:** 
   - These are reusable components that can be used in chains.
