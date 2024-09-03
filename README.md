@@ -42,3 +42,9 @@ query = "What is the capital of India?"
 response = chain.run(query)
 print(response)
 ```
+
+### **Example:**
+
+1. When you are using **ChatGPT** as an application.
+2. Internally it is making an API call to **OpenAI API**.
+3. Which uses **LLMs** GPT 3.5 or GPT 4.    
