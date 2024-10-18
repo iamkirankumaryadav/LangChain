@@ -1,6 +1,6 @@
 # **LangChain** 🦜🔗 
 - A powerful Python library designed to simplify the development of LLM applications.
-- It provides a modular and flexible framework to integrate LLMs into real-world applications.
+- It provides a modular framework to integrate LLMs into real-world applications.
 
 ### **Key components of LangChain:**
 1. Prompts:
