@@ -3,20 +3,20 @@
 - It provides a modular framework to incorporate LLMs into real-world applications.
 
 ### **Key components of LangChain:**
-1. Prompts:
+1. **Prompts:**
 - The instructions or questions given to the LLM. LangChain provides tools to create and manage prompts effectively.
 
 2. **Chains:** 
-- These are the building blocks of **LangChain** applications.
+- The building blocks of **LangChain** applications.
 - The sequences of steps or modules that define how the LLM is used.
 - They can be simple or complex, depending on the application requirements.
 
 3. **Modules:** 
-- These are reusable components that can be used in chains.
-- They include modules for retrieving information from databases, searching the web, and generating text.
+- The reusable components that can be used in chains.
+- Modules for retrieving information from databases, searching the web, and generating text.
 
 4. **Agents:** 
-- These are autonomous entities that can interact with their environment and use LLMs to complete tasks.
+- These autonomous entities can interact with their environment and use LLMs to complete tasks.
 - They can be used to build chatbots, virtual assistants, and other intelligent systems.
 
 5. **Memory:** 
@@ -51,11 +51,12 @@ response = chain.run(question)
 
 print(response)
 ```
+
 ### Common use cases for LangChain:
-1. **Question Answering:** Building systems that can answer questions based on a given corpus of text.
+1. **Question Answering:** Building systems that answer questions based on a given text corpus.
 2. **Summarization:** Creating summaries of long documents.
 3. **Translation:** Translating text from one language to another.
-4. **Creative Writing:** Generating creative text, such as poems or stories.
+4. **Creative Writing:** Generating creative text, such as poems, emails, articles or stories.
 5. **Code Generation:** Generating code snippets based on natural language descriptions.
 
 ### **Example:**
